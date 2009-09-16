@@ -1,25 +1,4 @@
 --- 
-amino_acid: 
-  arg: 0
-  ser: 0
-  ala: 0
-  val: 0
-  tyr: 0
-  phe: 0
-  ile: 0
-  pro: 0
-  glu: 0
-  lys: 0
-  leu: 0
-  met: 0
-  asn: 0
-  trp: 0
-  cys: 0
-  his: 0
-  thr: 0
-  asp: 0
-  gln: 0
-  gly: 0
 carbon: 
   arg: 72.066
   ser: 36.033

@@ -1,0 +1,21 @@
+amino acid,sulphur,oxygen,hydrogen,carbon,nitrogen
+ala,0,0,3,1,0
+ser,0,1,3,1,0
+arg,0,0,10,4,3
+val,0,0,7,2,0
+pro,0,0,6,3,0
+ile,0,0,9,4,0
+phe,0,0,7,7,0
+tyr,0,1,7,7,0
+glu,0,2,5,3,0
+asn,0,1,4,2,1
+met,1,0,7,3,0
+leu,0,0,9,4,0
+lys,0,0,10,4,1
+his,0,0,5,4,2
+cys,1,0,3,1,0
+trp,0,0,8,9,1
+asp,0,2,3,2,0
+thr,0,1,5,2,0
+gly,0,0,1,0,0
+gln,0,1,6,3,1
